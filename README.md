@@ -32,7 +32,7 @@ Tools:      Git | Docker | VS Code
    - *Tech used: Solidity, Web3.js, React, Ethereum*
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ken69420&show_icons=true&theme=dark)
 
 ### 🌟 Goals for 2024
 - [ ] Master React.js

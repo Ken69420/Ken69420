@@ -43,7 +43,8 @@ Tools:      Git | Docker | VS Code
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-imran-41a785242/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dnielmran/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](dewn.org)
+[![Github](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](dewn.org)
+[![Portfolio](https://img.shields.io/badge/-Website-00C7B7?style=flat-square&logo=internet-explorer&logoColor=white)](dewn.org)
 
 ---
 ⭐️ From [Ken69420](https://github.com/Ken69420)
